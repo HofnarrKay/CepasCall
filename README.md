@@ -1,6 +1,6 @@
 ![](Images/Banner.png)
 
-#### CepasCall (Student Project)
+#### CepasCall (Student Project First Semester)
 - Twinstick Shooter made at the School4Games with the following people:
 - You're also able to download it at: https://s4g.itch.io/cepas-call
 
